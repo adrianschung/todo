@@ -1,24 +1,9 @@
-# README
+# Simple ToDo app made with Ruby on Rails
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This app allows a user to:
 
-Things you may want to cover:
+* Create new tasks
 
-* Ruby version
+* Check or uncheck tasks to mark completion
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Using AJAX to send and receive data to the JSON file, in addition with jQuery, this app provides a dynamic, single page web application.
